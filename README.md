@@ -11,3 +11,6 @@ Em busca de experiência e principalmente do meu primeiro emprego na área de te
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Gabriel-exe&theme=tokyonight)](https://github.com/Dev-Gabriel-exe/github-readme-stats)
+
+# Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Gabriel-exe&repo=Dev-Gabriel-exe.github.io)](https://github.com/anuraghazra/github-readme-stats)
