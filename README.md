@@ -10,3 +10,4 @@ Em busca de experiência e principalmente do meu primeiro emprego na área de te
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Gabriel-exe)](https://github.com/anuraghazra/github-readme-stats)
