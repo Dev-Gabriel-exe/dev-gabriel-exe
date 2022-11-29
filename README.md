@@ -20,3 +20,5 @@ Em busca de experiência e principalmente do meu primeiro emprego na área de te
 
 # Contato
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/gabriel-alencar-vale)
+
+[<img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/alencar.gabriel.w/)
