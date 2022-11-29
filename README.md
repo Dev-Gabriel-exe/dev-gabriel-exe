@@ -14,3 +14,5 @@ Em busca de experiência e principalmente do meu primeiro emprego na área de te
 
 # Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Gabriel-exe&repo=Dev-Gabriel-exe.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](www.linkedin.com/in/gabriel-alencar-vale)
